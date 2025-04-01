@@ -1,0 +1,6 @@
+@echo off
+echo Completely resetting Spring Specifications and removing all set points...
+python reset_specs.py
+echo.
+echo Press any key to exit...
+pause > nul 
